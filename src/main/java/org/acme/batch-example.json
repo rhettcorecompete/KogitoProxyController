@@ -1,0 +1,21 @@
+
+
+{
+"DMN": "Traffic%20Violation",
+"BatchData": [{
+                    "Driver":{ "Points":2 },
+                    "Violation":{
+                    "Type":"speed",
+                    "Actual Speed":120,
+                    "Speed Limit":100
+                    }
+            },
+            {
+                "Driver":{ "Points":10 },
+                "Violation":{
+                "Type":"speed",
+                "Actual Speed":90,
+                "Speed Limit":55
+                }
+        }]
+}

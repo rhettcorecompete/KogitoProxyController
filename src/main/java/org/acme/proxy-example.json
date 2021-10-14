@@ -1,0 +1,13 @@
+
+
+{
+"DMN": "Traffic%20Violation",
+"RuleData": {
+                    "Driver":{ "Points":2 },
+                    "Violation":{
+                    "Type":"speed",
+                    "Actual Speed":120,
+                    "Speed Limit":100
+                    }
+            }
+}
